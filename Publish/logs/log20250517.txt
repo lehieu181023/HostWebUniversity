@@ -1,0 +1,1 @@
+2025-05-17 11:40:47.445 +07:00 [INF] [Backup] Ứng dụng khởi động. Đợi 30 ngày trước lần backup đầu tiên.
